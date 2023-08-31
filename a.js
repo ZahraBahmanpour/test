@@ -4,3 +4,5 @@ const b = 30;
 function showModal() {
   alert("open modal");
 }
+
+function calculateLength() {}
