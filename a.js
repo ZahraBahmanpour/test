@@ -5,4 +5,6 @@ function showModal() {
   alert("open modal");
 }
 
-function calculateLength() {}
+function calculateLength(a, b) {
+  const sum = a + b;
+}
