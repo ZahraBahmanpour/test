@@ -10,3 +10,5 @@ function calculateLength(a, b) {
   const sum = a + b;
   return sum;
 }
+
+const COLOR = "Yellow";
