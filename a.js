@@ -3,6 +3,7 @@ const b = 30;
 
 function showModal() {
   alert("open modalllllll");
+  alert("open modal0000000000000000");
 }
 
 function calculateLength(a, b) {
